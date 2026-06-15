@@ -39,7 +39,11 @@ Experience
 
 * **Teaching Assistant** (Aug 2021 – May 2024)
   * Department of Mathematics, Iowa State University, Ames, IA
-  * Instructed and tutored students in Introduction to Data Science, Calculus 1–3, and general physics.
+  * Introduction to Data Science (DS 201) — Fall 2022
+  * Calculus 1 (MATH 165) — Fall 2023
+  * Calculus 2 (MATH 166) — Fall 2021
+  * Calculus 3 (MATH 265) — Spring 2022, Spring 2023
+  * Military Affiliated Tutoring for Calculus and General Physics
 
 * **Robotic Integration and Computer Vision Assistant** (May 2022 – Aug 2023)
   * Agricultural Automation and Robotics Laboratory, Iowa State University, Ames, IA

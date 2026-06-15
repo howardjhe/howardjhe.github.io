@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Associate in the [Soils Laboratory](https://soils.illinois.edu/) at the **University of Illinois Urbana-Champaign**, working at the intersection of computational imaging, deep learning, and soil science.
+I am a Postdoctoral Research Associate in the [Soils Laboratory](https://margenot.cropsciences.illinois.edu) at the **University of Illinois Urbana-Champaign**, working at the intersection of computational imaging, deep learning, and soil science.
 
 My research focuses on **synchrotron X-ray computed tomography (XCT)** of soil aggregates and intact soil cores, with a particular emphasis on developing automated 3D segmentation pipelines to study pore-organic matter biogeochemical interfaces and their role in carbon cycling. I am an active user of the **APS 2-BM beamline** at Argonne National Laboratory, and I design and maintain HPC-based reconstruction and inference pipelines on ALCF Polaris and NERSC Perlmutter.
 
@@ -27,4 +27,4 @@ Before joining UIUC, I was a Ph.D. student and research assistant at **Iowa Stat
 News
 ======
 - **Jan 2026** — New paper published in *Biosystems Engineering*: ["Tillage-induced soil feature extraction and multi-sensors fusion for tillage system classification"](https://doi.org/10.1016/j.biosystemseng.2025.104329)
-- **2026** — Paper published in *Geoderma*: "Comparison of automated chemical-guided segmentation and human annotation of soil organic matter in X-ray microcomputed tomography imaging in contrasted soil types"
+- **May 2026** — Paper published in *Geoderma*: "Comparison of automated chemical-guided segmentation and human annotation of soil organic matter in X-ray microcomputed tomography imaging in contrasted soil types"
