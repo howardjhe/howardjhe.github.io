@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Data Science (DS 201)"
+title: "Introduction to Data Science (DS 201) — Fall 2022"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2022-fall-data-science

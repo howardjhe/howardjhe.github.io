@@ -1,5 +1,5 @@
 ---
-title: "Calculus 1 (MATH 165)"
+title: "Calculus 1 (MATH 165) — Fall 2023"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2023-fall-calculus1

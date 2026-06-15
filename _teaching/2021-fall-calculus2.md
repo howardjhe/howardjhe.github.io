@@ -1,5 +1,5 @@
 ---
-title: "Calculus 2 (MATH 166)"
+title: "Calculus 2 (MATH 166) — Fall 2021"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2021-fall-calculus2

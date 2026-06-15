@@ -1,5 +1,5 @@
 ---
-title: "Calculus 3 (MATH 265)"
+title: "Calculus 3 (MATH 265) — Spring 2022 & 2023"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2022-spring-calculus3
