@@ -1,152 +1,258 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jia-Hao (Howard) He",
+    "email": "jhhe@illinois.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://howardjhe.github.io",
+    "summary": "Computational imaging researcher specializing in synchrotron X-ray tomography, 3D deep learning, and HPC-based reconstruction pipelines. Postdoctoral Research Associate at the University of Illinois Urbana-Champaign.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "address": "1102 S Goodwin Ave",
+      "postalCode": "61801",
+      "city": "Urbana",
       "countryCode": "US",
-      "region": ""
+      "region": "IL"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Jia-Hao He",
+        "url": "https://scholar.google.com/citations?user=MkGBo_QAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0000-0001-7596-9156",
+        "url": "https://orcid.org/0000-0001-7596-9156"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "howardjhe",
+        "url": "https://github.com/howardjhe"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Soils Laboratory, University of Illinois Urbana-Champaign",
+      "position": "Postdoctoral Research Associate",
+      "website": "",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "Synchrotron micro-XCT, deep learning segmentation, HPC pipelines for soil science.",
+      "highlights": [
+        "Recurring synchrotron micro-XCT campaigns at APS 2-BM beamline; novel dual-energy contrast-enhanced approach with iodine staining",
+        "Transformer-based 3D supervised segmentation for pore network analysis and organic matter mapping",
+        "HPC reconstruction/inference pipelines on ALCF Polaris and NERSC Perlmutter with tomocupy",
+        "Noise2Inverse self-supervised denoising: PSNR +4.38 dB, SSIM +0.015 on APS 2-BM soil XCT data"
+      ]
+    },
+    {
+      "company": "Soil Machine Dynamics Laboratory, Iowa State University",
+      "position": "Digital Agriculture Research Assistant",
+      "website": "",
+      "startDate": "2023-11-01",
+      "endDate": "2025-01-01",
+      "summary": "AI-enabled tillage decision systems and ML models for soil characterization.",
+      "highlights": [
+        "Designed site-specific tillage decision systems with sensitivity analysis and machine learning",
+        "Developed ML models to predict tillage performance and crop yield from multi-sensor datasets"
+      ]
+    },
+    {
+      "company": "Center for GIS and RCHSS, Academia Sinica",
+      "position": "GIS for Agriculture Summer Research Intern",
+      "website": "",
+      "startDate": "2024-05-01",
+      "endDate": "2025-01-01",
+      "summary": "AI workflows for rice growth monitoring using satellite data and Google Earth Engine.",
+      "highlights": [
+        "Developed NDVI-based deep learning pipelines for rice yield prediction with Sentinel-2",
+        "Fused multimodal remote sensing signals for crop monitoring under extreme conditions"
+      ]
+    },
+    {
+      "company": "Department of Mathematics, Iowa State University",
+      "position": "Teaching Assistant",
+      "website": "",
+      "startDate": "2021-08-01",
+      "endDate": "2024-05-01",
+      "summary": "Instructed Introduction to Data Science, Calculus 1–3, and general physics.",
+      "highlights": []
+    },
+    {
+      "company": "Agricultural Automation and Robotics Laboratory, Iowa State University",
+      "position": "Robotic Integration and Computer Vision Assistant",
+      "website": "",
+      "startDate": "2022-05-01",
+      "endDate": "2023-08-01",
+      "summary": "Deep learning for corn feature extraction and gradient-based algorithm optimization.",
+      "highlights": []
+    },
+    {
+      "company": "Advanced Structures and Materials Laboratory, National Taiwan University",
+      "position": "Structural Analysis Research Assistant",
+      "website": "",
+      "startDate": "2015-09-01",
+      "endDate": "2021-01-01",
+      "summary": "Multiphysics FEM simulations and vibrational sensors for structural damage detection.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Iowa State University",
+      "area": "Ph.D., Agricultural and Biosystems Engineering; Minor in Applied Mathematics",
+      "studyType": "Ph.D.",
+      "startDate": "2024",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Iowa State University",
+      "area": "Master of Engineering, Agricultural and Biosystems Engineering; Minor in Applied Mathematics",
+      "studyType": "M.Eng.",
+      "startDate": "2021",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "National Taiwan University",
+      "area": "Master of Science, Engineering Science and Ocean Engineering",
+      "studyType": "M.S.",
+      "startDate": "2015",
+      "endDate": "2017",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "National Cheng Kung University",
+      "area": "Bachelor of Science, Systems and Naval Mechatronic Engineering",
+      "studyType": "B.S.",
+      "startDate": "2011",
+      "endDate": "2015",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "ML & Deep Learning",
+      "level": "",
+      "keywords": ["PyTorch", "Transformer architectures", "CNNs", "3D segmentation", "SVM", "Random forest", "XGBoost", "AdaBoost"]
+    },
+    {
+      "name": "Computational Imaging",
+      "level": "",
+      "keywords": ["Synchrotron XCT reconstruction", "Tomographic algorithms", "FFT-based frequency-domain transforms", "Pore network analysis"]
+    },
+    {
+      "name": "HPC & Scientific Programming",
+      "level": "",
+      "keywords": ["ALCF Polaris", "NERSC Perlmutter", "GPU-accelerated pipelines", "tomocupy"]
+    },
+    {
+      "name": "Multimodal Imaging",
+      "level": "",
+      "keywords": ["Dual-energy micro-CT", "Iodine-contrast staining", "Infrared thermography", "SEM", "Optical microscopy", "Remote sensing"]
+    },
+    {
+      "name": "Software & Tools",
+      "level": "",
+      "keywords": ["Python", "MATLAB", "ImageJ", "3D Slicer", "COMSOL", "SolidWorks", "Google Earth Engine", "Git", "Globus"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Comparison of automated chemical-guided segmentation and human annotation of soil organic matter in X-ray microcomputed tomography imaging in contrasted soil types",
+      "publisher": "Geoderma",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "He, Jia Hao, Andrew J Margenot, Yuhei Nakayama, Viktor Nikitin, Y Zou Finfrock, Odeta Qafoku, Tamas Varga, Neslihan Taş, Elizabeth C Gillispie, Amisha Poret Peterson, et al. Geoderma 469, p. 117769."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Tillage-induced soil feature extraction and multi-sensors fusion for tillage system classification",
+      "publisher": "Biosystems Engineering",
+      "releaseDate": "2026-01-01",
+      "website": "https://doi.org/10.1016/j.biosystemseng.2025.104329",
+      "summary": "Jia-Hao He, Steven K Mickelson, Jerry L Hatfield, and Mehari Z Tekeste. Biosystems Engineering 261, p. 104329."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Development of a Method for Soil Tilth Quality Evaluation from Crumbling Roller Baskets Using Deep Machine Learning Models",
+      "publisher": "Sensors",
+      "releaseDate": "2024",
+      "website": "https://doi.org/10.3390/s24113379",
+      "summary": "Tekeste, Mehari Z, Junxian Guo, Desale Habtezgi, Jia-Hao He, and Marcin Waz. Sensors 24.11, p. 3379."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Anderson acceleration of gradient methods with energy for optimization problems",
+      "publisher": "Communications on Applied Mathematics and Computation",
+      "releaseDate": "2023",
+      "website": "https://doi.org/10.1007/s42967-023-00327-0",
+      "summary": "Liu, Hailiang, Jia-Hao He, and Xuping Tian. Communications on Applied Mathematics and Computation 6, pp. 1299–1318."
+    },
+    {
+      "name": "Next-Generation High-Performance Biobased Naphthalate-Modified PET for Sustainable Food Packaging Applications",
+      "publisher": "Macromolecules",
+      "releaseDate": "2022",
+      "website": "https://doi.org/10.1021/acs.macromol.2c00777",
+      "summary": "Lee, Ting-Han, et al. Macromolecules 55.17, pp. 7785–7797."
+    },
+    {
+      "name": "Identification of multiple local damage to an offshore jacket substructure using a novel strain expansion–reduction approach",
+      "publisher": "Applied Sciences",
+      "releaseDate": "2020-11-01",
+      "website": "https://doi.org/10.3390/app10227991",
+      "summary": "Jia-Hao He, Ding-Peng Liu, Cheng-Hsien Chung, and Hsin-Haou Huang. Applied Sciences 10.22, p. 7991."
+    },
+    {
+      "name": "Infrared thermography measurement for vibration-based structural health monitoring in low-visibility harsh environments",
+      "publisher": "Sensors",
+      "releaseDate": "2020-12-01",
+      "website": "https://doi.org/10.3390/s20247067",
+      "summary": "Jia-Hao He, Ding-Peng Liu, Cheng-Hsien Chung, and Hsin-Haou Huang. Sensors 20.24, p. 7067."
+    },
+    {
+      "name": "Complete vibrational bandgap in thin elastic metamaterial plates with periodically slot-embedded local resonators",
+      "publisher": "Archive of Applied Mechanics",
+      "releaseDate": "2018-10-01",
+      "website": "https://doi.org/10.1007/s00419-018-1371-0",
+      "summary": "Jia-Hao He and Hsin-Haou Huang. Archive of Applied Mechanics 88.10, pp. 1263–1274."
+    },
+    {
+      "name": "Multiband switching realized by a bidirectionally tunable and multiconfiguration acoustic diode",
+      "publisher": "AIP Advances",
+      "releaseDate": "2018-10-01",
+      "website": "https://doi.org/10.1063/1.5049501",
+      "summary": "Jia-Hao He and Hsin-Haou Huang. AIP Advances 8.10, p. 105032."
+    },
+    {
+      "name": "Tunable acoustic wave propagation through planar auxetic metamaterial",
+      "publisher": "Journal of Mechanics",
+      "releaseDate": "2018-04-01",
+      "website": "https://doi.org/10.1017/jmech.2017.51",
+      "summary": "Jia-Hao He and Hsin-Haou Huang. Journal of Mechanics 34.2, pp. 113–122."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Introduction to Data Science",
+      "institution": "Department of Mathematics, Iowa State University",
+      "date": "2021-08-01",
+      "role": "Teaching Assistant",
+      "description": "Instructed and tutored undergraduate students."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Calculus 1–3 and General Physics",
+      "institution": "Department of Mathematics, Iowa State University",
+      "date": "2021-08-01",
+      "role": "Teaching Assistant",
+      "description": "Instructed and tutored undergraduate students."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
