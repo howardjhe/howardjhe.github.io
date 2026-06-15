@@ -7,5 +7,3 @@ venue: "Department of Mathematics, Iowa State University"
 date: 2022-08-01
 location: "Ames, IA"
 ---
-
-Teaching Assistant for Introduction to Data Science (DS 201), Fall 2022.
