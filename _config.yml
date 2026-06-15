@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Howard (Jia Hao)'s Homepage"
+title                    : "Howard (Jia-Hao)'s Homepage"
 title_separator          : "-"
-name                     : &name "Jia Hao (Howard) He"
+name                     : &name "Jia-Hao (Howard) He"
 description              : &description "Howard's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://howardjhe.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "howardjhe/howardjhe.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jia Hao (Howard) He"
+  name             : "Jia-Hao (Howard) He"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc"
   location         : "Urbana, IL"
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-7596-9156"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
